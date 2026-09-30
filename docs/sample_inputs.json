@@ -1,0 +1,32 @@
+[
+  {
+    "document_type": "Freelance Work Contract",
+    "parties": "Jane Doe (Service Provider), TechNova Inc. (Client)",
+    "terms": "Work must be delivered by May 15, 2025; Payment will be made within 7 days of invoice; The client retains intellectual property rights; Confidentiality must be maintained at all times",
+    "dates": "April 15, 2025"
+  },
+  {
+    "document_type": "Non-Disclosure Agreement (NDA)",
+    "parties": "Ravi Kumar (Freelancer), BrightWave Pvt Ltd (Client)",
+    "terms": "Confidential information includes source code and pricing; Obligations last for 3 years; Information may be disclosed only if required by law",
+    "dates": "10/04/2025"
+  },
+  {
+    "document_type": "Residential Lease Agreement",
+    "parties": "Alice Smith (Tenant), XYZ Realty (Landlord); Property: 12 Lake View Road, Chennai",
+    "terms": "Monthly rent Rs. 25,000 due on the 5th; Security deposit of two months rent; Either party may terminate with 30 days notice; No subletting without written consent",
+    "dates": "April 10, 2025"
+  },
+  {
+    "document_type": "Employment Offer Letter",
+    "parties": "Startup Labs Ltd (Employer), Priya Nair (Employee)",
+    "terms": "Role: Software Engineer; Probation period of 3 months; Salary payable monthly; Employee keeps company data confidential",
+    "dates": "June 1, 2025"
+  },
+  {
+    "document_type": "Service Agreement",
+    "parties": "Acme Consulting (Provider), Globex Corp (Client)",
+    "terms": "",
+    "dates": "January 5, 2026"
+  }
+]
